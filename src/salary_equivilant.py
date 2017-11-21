@@ -3,6 +3,7 @@ from dateutil import rrule
 import pandas as pd
 import json
 import matplotlib.pyplot as plt
+import calendar
 
 def weeks_between(start_date, end_date,direction):
     if direction == 'until':
@@ -21,13 +22,30 @@ def required_hourly_rate(goal,current,bill_weekly_hours,weeks_left):
     req_rate = diff/(bill_weekly_hours*weeks_left)
     return(req_rate)
 
+def add_hours(df,hours_to_add):
+    df['cumulative_hours'] = df['cumulative_hours'] + hours_to_add
+    return(df)
+
+def add_income(df,bill_rate):
+    df['cumulative_bill'] = df['cumulative_bill'] + (df['cumulative_hours'] * bill_rate)
+    return(df)
+
+def plot_income_goal(week_list,income_list,profile):
+    plt.plot(week_list,income_list)
+    plt.plot('52',profile['goal'],'.')
+    plt.show()
+    return()
+
 # Date variables
 today = date.today()
+day_of_week = calendar.day_name[today.weekday()]
 now = datetime.now()
 end_of_year = date(now.year,12,31)
 beginning_of_year = date(now.year,1,1)
 
 profile = pd.read_csv('../data/profile')
+weekly_hours = pd.read_csv('../data/weekly_hours_log')
+
 
 goal_salary = profile['goal']
 sched_vac = 10
@@ -73,6 +91,10 @@ for i in range(weeks):
     cumulative_income = previous_income + (req_rate * bill_weekly_hours)
     week_count = i + current_week_index + 1
     print('\n----\nWeek: %s \nCumulative income: $%s\n----\n'%(str(week_count),str(cumulative_income)))
+
+    #weekly_hours['
+
+
     income_list.append(cumulative_income)
     week_list.append(week_count)
     previous_income = cumulative_income
@@ -84,6 +106,14 @@ pay = bill_rate * bill_weekly_hours * weeks
 
 print('%f'%round(req_rate,2))
 
-plt.plot(week_list,income_list)
-plt.plot('52',profile['goal'],'.')
-plt.show()
+
+
+
+hours_to_add = input('How many hours are you tracking? ')
+hours_to_add = int(hours_to_add)
+profile = add_hours(profile,hours_to_add)
+profile = add_income(profile,bill_rate)
+profile.to_csv('../data/profile',header=True, index=False)
+
+
+plot_income_goal(week_list,income_list,profile)
