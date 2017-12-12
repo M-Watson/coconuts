@@ -34,6 +34,7 @@ def plot_income_goal(week_list,income_list,profile):
     plt.plot(week_list,income_list)
     plt.plot('52',profile['goal'],'.')
     plt.show()
+    plt.savefig('..\\coconuts\\assets\\income_goal_output.png')
     return()
 
 # Date variables

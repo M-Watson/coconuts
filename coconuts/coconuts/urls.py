@@ -20,4 +20,5 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^$',views.home, name='home'),
     url(r'^admin/', admin.site.urls),
+    url(r'^submit', views.home, name='home')
 ]
