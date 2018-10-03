@@ -373,11 +373,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 <h3><a href="https://www.nobelprize.org/nobel_prizes/physics/laureates/2018/">The Nobel Prize in Physics 2018</a></h3>
 <p>&#8220;for groundbreaking inventions in the field of laser physics&#8221;</p>
 <p><a href="https://www.nobelprize.org/prizes/physics/2018/ashkin/facts/">Arthur Ashkin</a> &#8220;for the optical tweezers and their application to biological systems&#8221;</p>
-<p><a href="//www.nobelprize.org/prizes/physics/2018/ashkin/facts/">GÃ©rard Mourou</a> and <a href="//www.nobelprize.org/prizes/physics/2018/strickland/facts/">Donna Strickland</a> &#8220;for their method of generating high-intensity, ultra-short optical pulses&#8221;</p>
-<div class="by_year">
-<h3><a href="https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2018/">The Nobel Prize in Chemistry 2018</a></h3>
-<p>The 2018 Nobel Prize in Chemistry has not been awarded yet. It will be announced on Wednesday 3 October, 11:45 a.m. at the earliest.</p>
-</div>
+<p><a href="//www.nobelprize.org/prizes/physics/2018/ashkin/facts/">Gérard Mourou</a> and <a href="//www.nobelprize.org/prizes/physics/2018/strickland/facts/">Donna Strickland</a> &#8220;for their method of generating high-intensity, ultra-short optical pulses&#8221;</p>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2017/">The Nobel Prize in Physics 2017</a></h3>
 <p><a href="https://www.nobelprize.org/prizes/physics/2017/weiss/facts/">Rainer Weiss</a>, <a href="https://www.nobelprize.org/prizes/physics/2017/barish/facts/">Barry C. Barish</a> and <a href="https://www.nobelprize.org/prizes/physics/2017/thorne/facts/">Kip S. Thorne</a> &#8220;for decisive contributions to the LIGO detector and the observation of gravitational waves&#8221;</p>
@@ -396,7 +392,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2013/">The Nobel Prize in Physics 2013</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/2013/englert/facts/">FranÃ§ois Englert</a> and <a href="https://www.nobelprize.org/prizes/physics/2013/higgs/facts/">Peter W. Higgs</a> &#8220;for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN&#8217;s Large Hadron Collider&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/2013/englert/facts/">François Englert</a> and <a href="https://www.nobelprize.org/prizes/physics/2013/higgs/facts/">Peter W. Higgs</a> &#8220;for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN&#8217;s Large Hadron Collider&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2012/">The Nobel Prize in Physics 2012</a></h3>
@@ -422,7 +418,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2007/">The Nobel Prize in Physics 2007</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/2007/fert/facts/">Albert Fert</a> and <a href="https://www.nobelprize.org/prizes/physics/2007/grunberg/facts/">Peter GrÃ¼nberg</a>&#8220;for the discovery of Giant Magnetoresistance&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/2007/fert/facts/">Albert Fert</a> and <a href="https://www.nobelprize.org/prizes/physics/2007/grunberg/facts/">Peter Grünberg</a>&#8220;for the discovery of Giant Magnetoresistance&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2006/">The Nobel Prize in Physics 2006</a></h3>
@@ -431,7 +427,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2005/">The Nobel Prize in Physics 2005</a></h3>
 <p><a href="https://www.nobelprize.org/prizes/physics/2005/glauber/facts/">Roy J. Glauber</a>&#8220;for his contribution to the quantum theory of optical coherence&#8221;</p>
-<p><a href="https://www.nobelprize.org/prizes/physics/2005/hall/facts/">John L. Hall</a> and <a href="https://www.nobelprize.org/prizes/physics/2005/hansch/facts/">Theodor W. HÃ¤nsch</a>&#8220;for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/2005/hall/facts/">John L. Hall</a> and <a href="https://www.nobelprize.org/prizes/physics/2005/hansch/facts/">Theodor W. Hänsch</a>&#8220;for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/2004/">The Nobel Prize in Physics 2004</a></h3>
@@ -462,7 +458,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1998/">The Nobel Prize in Physics 1998</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/">Robert B. Laughlin</a>, <a href="https://www.nobelprize.org/prizes/physics/1998/stormer/facts/">Horst L. StÃ¶rmer</a> and <a href="https://www.nobelprize.org/prizes/physics/1998/tsui/facts/">Daniel C. Tsui</a> &#8220;for their discovery of a new form of quantum fluid with fractionally charged excitations&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/">Robert B. Laughlin</a>, <a href="https://www.nobelprize.org/prizes/physics/1998/stormer/facts/">Horst L. Störmer</a> and <a href="https://www.nobelprize.org/prizes/physics/1998/tsui/facts/">Daniel C. Tsui</a> &#8220;for their discovery of a new form of quantum fluid with fractionally charged excitations&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1997/">The Nobel Prize in Physics 1997</a></h3>
@@ -511,7 +507,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1987/">The Nobel Prize in Physics 1987</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1987/bednorz/facts/">J. Georg Bednorz</a> and <a href="https://www.nobelprize.org/prizes/physics/1987/muller/facts/">K. Alexander MÃ¼ller</a>&#8220;for their important break-through in the discovery of superconductivity in ceramic materials&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1987/bednorz/facts/">J. Georg Bednorz</a> and <a href="https://www.nobelprize.org/prizes/physics/1987/muller/facts/">K. Alexander Müller</a>&#8220;for their important break-through in the discovery of superconductivity in ceramic materials&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1986/">The Nobel Prize in Physics 1986</a></h3>
@@ -584,8 +580,8 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1970/">The Nobel Prize in Physics 1970</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1970/alfven/facts/">Hannes Olof GÃ¶sta AlfvÃ©n</a> &#8220;for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics&#8221;</p>
-<p><a href="https://www.nobelprize.org/prizes/physics/1970/neel/facts/">Louis EugÃ¨ne FÃ©lix NÃ©el</a> &#8220;for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1970/alfven/facts/">Hannes Olof Gösta Alfvén</a> &#8220;for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1970/neel/facts/">Louis Eugène Félix Néel</a> &#8220;for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics&#8221;</p>
 <h3 class="by_year_clear"><a href="https://www.nobelprize.org/prizes/physics/1969/">The Nobel Prize in Physics 1969</a></h3>
 </div>
 <div class="by_year">
@@ -623,7 +619,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1961/">The Nobel Prize in Physics 1961</a></h3>
 <p><a href="https://www.nobelprize.org/prizes/physics/1961/hofstadter/facts/">Robert Hofstadter</a> &#8220;for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons&#8221;</p>
-<p><a href="https://www.nobelprize.org/prizes/physics/1961/mossbauer/facts/">Rudolf Ludwig MÃ¶ssbauer</a> &#8220;for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1961/mossbauer/facts/">Rudolf Ludwig Mössbauer</a> &#8220;for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name&#8221;</p>
 <h3 class="by_year_clear"><a href="https://www.nobelprize.org/prizes/physics/1960/">The Nobel Prize in Physics 1960</a></h3>
 </div>
 <div class="by_year">
@@ -631,11 +627,11 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1959/">The Nobel Prize in Physics 1959</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1959/segre/facts/">Emilio Gino SegrÃ¨</a> and <a href="https://www.nobelprize.org/prizes/physics/1959/chamberlain/facts/">Owen Chamberlain</a> &#8220;for their discovery of the antiproton&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1959/segre/facts/">Emilio Gino Segrè</a> and <a href="https://www.nobelprize.org/prizes/physics/1959/chamberlain/facts/">Owen Chamberlain</a> &#8220;for their discovery of the antiproton&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1958/">The Nobel Prize in Physics 1958</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1958/cerenkov/facts/">Pavel Alekseyevich Cherenkov</a>, <a href="https://www.nobelprize.org/prizes/physics/1958/frank/facts/">IlÂ´ja Mikhailovich Frank</a> and <a href="https://www.nobelprize.org/prizes/physics/1958/tamm/facts/">Igor Yevgenyevich Tamm</a> &#8220;for the discovery and the interpretation of the Cherenkov effect&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1958/cerenkov/facts/">Pavel Alekseyevich Cherenkov</a>, <a href="https://www.nobelprize.org/prizes/physics/1958/frank/facts/">Il´ja Mikhailovich Frank</a> and <a href="https://www.nobelprize.org/prizes/physics/1958/tamm/facts/">Igor Yevgenyevich Tamm</a> &#8220;for the discovery and the interpretation of the Cherenkov effect&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1957/">The Nobel Prize in Physics 1957</a></h3>
@@ -738,7 +734,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1933/">The Nobel Prize in Physics 1933</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1933/schrodinger/facts/">Erwin SchrÃ¶dinger</a> and <a href="https://www.nobelprize.org/prizes/physics/1933/dirac/facts/">Paul Adrien Maurice Dirac</a> &#8220;for the discovery of new productive forms of atomic theory&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1933/schrodinger/facts/">Erwin Schrödinger</a> and <a href="https://www.nobelprize.org/prizes/physics/1933/dirac/facts/">Paul Adrien Maurice Dirac</a> &#8220;for the discovery of new productive forms of atomic theory&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1932/">The Nobel Prize in Physics 1932</a></h3>
@@ -803,7 +799,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1917/">The Nobel Prize in Physics 1917</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1917/barkla/facts/">Charles Glover Barkla</a> &#8220;for his discovery of the characteristic RÃ¶ntgen radiation of the elements&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1917/barkla/facts/">Charles Glover Barkla</a> &#8220;for his discovery of the characteristic Röntgen radiation of the elements&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1916/">The Nobel Prize in Physics 1916</a></h3>
@@ -823,7 +819,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1912/">The Nobel Prize in Physics 1912</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1912/dalen/facts/">Nils Gustaf DalÃ©n</a> &#8220;for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1912/dalen/facts/">Nils Gustaf Dalén</a> &#8220;for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1911/">The Nobel Prize in Physics 1911</a></h3>
@@ -860,7 +856,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1903/">The Nobel Prize in Physics 1903</a></h3>
 <p><a href="https://www.nobelprize.org/prizes/physics/1903/becquerel/facts/">Antoine Henri Becquerel</a> &#8220;in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity&#8221;</p>
-<p><a href="https://www.nobelprize.org/prizes/physics/1903/pierre-curie/facts/">Pierre Curie</a> and <a href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/">Marie Curie, nÃ©e Sklodowska</a> &#8220;in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1903/pierre-curie/facts/">Pierre Curie</a> and <a href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/">Marie Curie, née Sklodowska</a> &#8220;in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel&#8221;</p>
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1902/">The Nobel Prize in Physics 1902</a></h3>
@@ -868,7 +864,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 </div>
 <div class="by_year">
 <h3><a href="https://www.nobelprize.org/prizes/physics/1901/">The Nobel Prize in Physics 1901</a></h3>
-<p><a href="https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/">Wilhelm Conrad RÃ¶ntgen</a>&#8220;in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him&#8221;</p>
+<p><a href="https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/">Wilhelm Conrad Röntgen</a>&#8220;in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him&#8221;</p>
 </div>
 <div></div>
 <div></div>
@@ -905,7 +901,7 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 							<h5>
 					<a href="/the-nobel-prize-organisation/the-nobel-foundation/">The Nobel Foundation</a>				</h5>
 			
-			<p>Tasked with a mission to manage Alfred Nobel's fortune and hasÂ ultimate responsibility for fullfilling the intentions of Nobel's will.</p>
+			<p>Tasked with a mission to manage Alfred Nobel's fortune and has ultimate responsibility for fullfilling the intentions of Nobel's will.</p>
 		</div>
 				<div class="footer-section">
 							<h5>
@@ -1041,5 +1037,5 @@ var fallback = {"path":"https:\/\/www.nobelprize.org\/wp-content\/themes\/nobelp
 <script type='text/javascript' src='https://www.nobelprize.org/wp-content/themes/nobelprize/assets/js/frontend/lib/objectfit/ls.object-fit.min.js?ver=0.2.0-df56ccabbf4cd71dbe4e6ff1fec173a7b74ab3b8'></script>
 <script type='text/javascript' src='https://www.nobelprize.org/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"06ce85f426","applicationID":"179859553","transactionName":"ZFxWYRFYVkIFUxANWF0WdVYXUFdfS0AWDU1WFFdaDU1dXxA=","queueTime":0,"applicationTime":2857,"atts":"SBtVF1lCRUw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"06ce85f426","applicationID":"179859553","transactionName":"ZFxWYRFYVkIFUxANWF0WdVYXUFdfS0AWDU1WFFdaDU1dXxA=","queueTime":0,"applicationTime":3959,"atts":"SBtVF1lCRUw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
