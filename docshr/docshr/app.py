@@ -8,7 +8,7 @@ db = SQLAlchemy(app)
 
 @app.route('/')
 def hello_world():
-    """Print 'Hello, world!' as the respjytonse body."""
+    """Pfda frint 'Hello, world!' as the respjytonse body."""
     return 'Hello, ASFDSworld!'
 
 
