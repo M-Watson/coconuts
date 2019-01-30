@@ -1,9 +1,26 @@
-<head>
-  <title>Base</title>
-  <meta http-equiv="refresh" content="10" />
-  </head>
-  <body>
-    <h1> SERVING </h1>
+<html>
+<script src="http://code.jquery.com/jquery-2.1.0.js"></script>
 
-    <img src = "2.jpg">
-    </body>
+</head>
+<body>
+<script>
+function updateClock ( )
+ {
+     var currentTime = new Date ( );
+     var currentHours = currentTime.getHours ( );
+     var currentMinutes = currentTime.getMinutes ( );
+     var currentSeconds = currentTime.getSeconds ( );
+     // Pad the hours, minutes and seconds with leading zeros, if required
+     currentMinutes = ( currentMinutes < 10 ? "0" : "" ) + currentMinutes;
+     currentSeconds = ( currentSeconds < 10 ? "0" : "" ) + currentSeconds;
+     currentHours = (currentHours < 10 ? "0" : "" ) + currentHours;
+     var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds;
+
+     $("#clock").html(currentTimeString);
+          }
+ $(document).ready(function() {
+    setInterval('updateClock()', 1000);
+ });
+</script>
+<div class=#clock><span id="clock">...</span></div>
+</body></html>
